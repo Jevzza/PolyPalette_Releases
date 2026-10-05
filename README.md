@@ -34,14 +34,6 @@ There are 2 pieces. The PolyPalette app, and a plugin for each copy of 3ds Max o
 
 The app's name and status turn green once it's connected. After that it connects on its own whenever PolyPalette is open.
 
-## Installing the 3ds Max plugin by hand
-
-You only need this if Install Plugin can't do it. Download the zip for your version from the latest release. 2024 has its own, 2025 and 2026 share one, and 2027 has its own. Unzip it, then:
-
-1. Start 3ds Max.
-2. Drag `PolyPalette_Max_Install.ms` from the `install` folder into the viewport.
-3. Restart 3ds Max.
-
 ## Updating
 
 On the About tab, press Check for Updates. Turn on Auto-Update and it keeps PolyPalette and your plugins current for you.
